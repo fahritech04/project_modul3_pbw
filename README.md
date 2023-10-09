@@ -1,4 +1,4 @@
-# Laravel 8 - Point of Sale Application
+# Laravel - Perpustakaan
 
 ## Run Locally
 
